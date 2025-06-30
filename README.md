@@ -15,17 +15,16 @@ This is a Python implementation of the core logic for a typing speed and accurac
 
 ## How to Run
 
-1. Place `cats.py` in the provided course framework.
-2. Run the project with the supplied testing and data files.
+1. Make sure you have Python 3 installed.  
 
-## File Structure
+2. Open a terminal (CMD/PowerShell), and change directory to the project folder:  
 
-- `cats.py` — core logic of the typing test
-- `score.py` — scoring and evaluation functions
-- `utils.py` — utility functions
-- `multiplayer/` — multiplayer and leaderboard modules
-- `data/` — sample texts and word lists
+   cd /d D:\your\path\cats-typing-test
+   
+4. Run the GUI version:
 
+   py cats_gui.py
+   
 ## Note
 
 - The GUI, data files, and testing framework were provided by the course staff.  
@@ -60,16 +59,13 @@ This is a Python implementation of the core logic for a typing speed and accurac
 
 ## 如何运行
 
-1. 将 `cats.py` 放入课程框架目录
-2. 使用课程提供的测试脚本和数据文件运行
+1. 请确保已安装 Python 3。
 
-## 项目结构
+2. 打开命令行窗口（CMD/PowerShell），切换到项目目录：
+   cd /d D:\your\path\cats-typing-test
 
-- `cats.py` —— 项目主逻辑
-- `score.py` —— 评分与评价函数
-- `utils.py` —— 工具函数
-- `multiplayer/` —— 多人模式与排行榜模块
-- `data/` —— 测试文本和词库
+4. 运行图形界面版：
+   py cats_gui.py
 
 ## 说明
 
