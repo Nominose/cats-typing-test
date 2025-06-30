@@ -1,9 +1,8 @@
 # Cats Typing Test (CS61A Project)
 
-This is a Python implementation of the core logic for a typing speed and accuracy analysis tool, completed as a programming project for UC Berkeley's CS61A course.
+![Demo Screenshot](./screenshot.png)
 
-![Demo Screenshot]
-![image](https://github.com/user-attachments/assets/63a862fb-0977-4e40-ad05-f3b741966dc2)
+This is a Python implementation of the core logic for a typing speed and accuracy analysis tool, completed as a programming project for UC Berkeley's CS61A course.
 
 ## Features
 
