@@ -2,6 +2,9 @@
 
 This is a Python implementation of the core logic for a typing speed and accuracy analysis tool, completed as a programming project for UC Berkeley's CS61A course.
 
+![Demo Screenshot]
+![image](https://github.com/user-attachments/assets/63a862fb-0977-4e40-ad05-f3b741966dc2)
+
 ## Features
 
 - Implemented the main algorithms for analyzing typing speed and accuracy
