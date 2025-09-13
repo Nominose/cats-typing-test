@@ -21,7 +21,7 @@ This is a Python implementation of the core logic for a typing speed and accurac
 
 2. Open a terminal (CMD/PowerShell), and change directory to the project folder:  
 
-   cd /d D:\your\path\cats-typing-test
+   cd your\path\cats-typing-test
    
 4. Run the GUI version:
 
@@ -64,7 +64,7 @@ This is a Python implementation of the core logic for a typing speed and accurac
 1. 请确保已安装 Python 3。
 
 2. 打开命令行窗口（CMD/PowerShell），切换到项目目录：
-   cd /d D:\your\path\cats-typing-test
+   cd your\path\cats-typing-test
 
 4. 运行图形界面版：
    py cats_gui.py
